@@ -1,6 +1,6 @@
 # NodeJS Server Performance checking using MongoDB database (NoSQL architecture):
 
-Aim of this small project: checking NodeJS (https://nodejs.org/en/) server stability as a web-server against DB transactions of 1 or > 20 million JSON object-db inserts via MongoDb community server database (https://www.mongodb.com/download-center/community). 
+Aim of this small project: checking NodeJS (https://nodejs.org/en/) server stability as a web-server against DB transactions of 1 or > 20 millions JSON object-db inserts via MongoDb community server database (https://www.mongodb.com/download-center/community). 
 
 This performance test had been conducting using Node JS v10.15.2 and MongoDB version: 4.2.5 Community, using an ACER notebook equipped with Linux Mint OS Debian based version (LMDE 4 Debbie Cinnamon version 4.4.8 and Kernel version 4.19), with a 12 GB RAM and an Intel i7 (7th Gen.) CPU.
 
