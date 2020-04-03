@@ -1,4 +1,4 @@
-# NodeJS-Server-Performance checking using MongoDB database (NoSQL architecture):
+# NodeJS Server Performance checking using MongoDB database (NoSQL architecture):
 
 Aim of this small project: checking NodeJS (https://nodejs.org/en/) server stability as a web-server against DB transactions of 1 or > 20 million JSON object-db inserts via MongoDb community server database (https://www.mongodb.com/download-center/community). 
 
